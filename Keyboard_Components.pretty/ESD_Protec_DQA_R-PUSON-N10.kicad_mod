@@ -1,4 +1,4 @@
-(footprint "ESD_Protec_DQA_R-PUSON-N10_" (version 20211014) (generator pcbnew)
+(footprint "ESD_Protec_DQA_R-PUSON-N10" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
   (descr "DQA (R-PUSON-N10)")
