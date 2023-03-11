@@ -34,4 +34,9 @@
   (fp_line (start 0.4 -0.25) (end 0 0.35) (layer "F.Fab") (width 0.1) (tstamp f9020e12-75b2-45ff-8b5a-4846ef011591))
   (pad "1" smd rect (at 0 1.65 90) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a8afb376-5658-43bd-a209-3d9dff67eebd))
   (pad "2" smd rect (at 0 -1.65 90) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 381f3997-17b2-4446-9fa0-3aab59cfae86))
+  (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 -90))
+  )
 )

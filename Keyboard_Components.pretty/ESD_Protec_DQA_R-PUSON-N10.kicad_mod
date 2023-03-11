@@ -39,8 +39,8 @@
   (pad "8" smd rect (at 0 -0.385) (size 0.4 0.55) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fd9379cd-69e7-4015-ae75-f10604e7d6b8))
   (pad "9" smd rect (at -0.5 -0.385) (size 0.3 0.55) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fed8635f-b26b-4084-a43b-ebaa7705af82))
   (pad "10" smd rect (at -1 -0.385) (size 0.3 0.55) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp de24612f-39be-440b-b523-6ac4c29adfc5))
-  (model "C:\\Users\\jnsle\\Documents\\Tastatur\\Bibliotheken\\SamacSys_Parts.3dshapes\\TPD4E05U06DQAR.stp"
-    (offset (xyz 0 0 0.5299999634))
+  (model "${KICAD6_3DMODEL_DIR}/Keyboard_Components_3D_files/TPD4E05U06DQAR.stp"
+    (offset (xyz 0 0 0.53))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 -90))
   )

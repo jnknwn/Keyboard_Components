@@ -53,7 +53,7 @@
   (pad "8" thru_hole circle (at -1.5 -7.8) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask) (tstamp 050c5cda-66b9-4037-847e-1cf26f1838cf))
   (pad "9" thru_hole circle (at -7.8 -1.5) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask) (tstamp 3b87441e-9545-4daa-bf5c-0e30f2dd4c01))
   (pad "10" thru_hole circle (at -7.8 1.5) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask) (tstamp 3179ef1b-faa6-4773-ac15-5874e7722161))
-  (model "C:\\Users\\jnsle\\Documents\\Tastatur\\Bibliotheken\\SamacSys_Parts.3dshapes\\RKJXT1F42001.stp"
+  (model "${KICAD6_3DMODEL_DIR}/Keyboard_Components_3D_files/RKJXT1F42001.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
