@@ -49,7 +49,7 @@
   (pad "4" smd roundrect (at 2.6 -0.750001 270) (size 0.82 1.6) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1) (tstamp 22bb6c80-05a9-4d89-98b0-f4c23fe6c1ce))
   (pad "4" smd roundrect (at 2.6 0.75 270) (size 0.82 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp 42374f90-dc4a-4a3a-bc6a-b8473a2ece5b))
   (model "${KICAD6_3DMODEL_DIR}/Keyboard_Components_3D_files/LED_SK6812MINI-E.step"
-    (offset (xyz 0 0 0))
+    (offset (xyz 0 5.085 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
