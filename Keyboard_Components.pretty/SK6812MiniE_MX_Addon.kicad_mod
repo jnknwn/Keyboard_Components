@@ -1,4 +1,4 @@
-(footprint "MX_SK6812MiniE_Addon" (version 20211014) (generator pcbnew)
+(footprint "SK6812MiniE_MX_Addon" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 61EC6523)
   (descr "Add-on for regular MX-footprints with SK6812 MINI-E")
