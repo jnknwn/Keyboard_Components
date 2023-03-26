@@ -3,7 +3,7 @@
   (tedit 61EC6523)
   (descr "Add-on for regular MX-footprints with SK6812 MINI-E")
   (attr through_hole)
-  (fp_text reference "REF**" (at 0 1.5) (layer "F.SilkS") hide
+  (fp_text reference "REF**" (at 0 1.5) (layer "F.Fab")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 3f8a5430-68a9-4732-9b89-4e00dd8ae219)
   )
