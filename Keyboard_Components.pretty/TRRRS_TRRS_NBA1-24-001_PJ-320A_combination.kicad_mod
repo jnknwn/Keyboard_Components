@@ -394,6 +394,34 @@
 		(layer "F.SilkS")
 		(uuid "e0c7ddff-8c90-465f-be62-21fb49b059fa")
 	)
+	(fp_poly
+		(pts
+			(xy 3.25 -0.01) (xy 3.26 3.48) (xy 4.15 3.49) (xy 4.15 14.69) (xy 4.95 14.69) (xy 4.95 19.74) (xy 4.15 19.74)
+			(xy 4.15 22.19) (xy -4.15 22.19) (xy -4.15 19.74) (xy -4.95 19.74) (xy -4.95 14.69) (xy -4.15 14.69)
+			(xy -4.15 3.49) (xy -3.25 3.49) (xy -3.25 -0.01)
+		)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill none)
+		(layer "B.CrtYd")
+		(uuid "6e6ac5e7-95a8-464d-be87-1c8485cd9229")
+	)
+	(fp_poly
+		(pts
+			(xy 3.25 -0.01) (xy 3.26 3.48) (xy 4.15 3.49) (xy 4.15 14.69) (xy 4.95 14.69) (xy 4.95 19.74) (xy 4.15 19.74)
+			(xy 4.15 22.19) (xy -4.15 22.19) (xy -4.15 19.74) (xy -4.95 19.74) (xy -4.95 14.69) (xy -4.15 14.69)
+			(xy -4.15 3.49) (xy -3.25 3.49) (xy -3.25 -0.01)
+		)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "7a707b2b-b2e9-4c1b-b060-6ea0716a05a2")
+	)
 	(fp_text user "${REFERENCE}"
 		(at 0 -1.5 0)
 		(unlocked yes)
