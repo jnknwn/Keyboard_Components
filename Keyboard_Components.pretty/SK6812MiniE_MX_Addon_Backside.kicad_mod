@@ -351,7 +351,7 @@
 		)
 	)
 	(pad "1" smd custom
-		(at -2.67 4.39 270)
+		(at -2.67 4.38 270)
 		(size 0.1 0.1)
 		(layers "B.Cu" "B.Paste" "B.Mask")
 		(options
