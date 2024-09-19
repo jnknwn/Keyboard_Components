@@ -5,7 +5,6 @@
 	(layer "F.Cu")
 	(property "Reference" "REF**"
 		(at 0 -3.5 0)
-		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "076a8272-bd39-41fd-a47e-7bb22dfb34f2")
 		(effects
@@ -283,6 +282,18 @@
 		)
 		(layer "F.Fab")
 		(uuid "aeec2402-8ab7-44bb-8c7d-04b56ee3b649")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 -3.5 0)
+		(layer "B.SilkS")
+		(uuid "40f22732-62b3-4bd7-a427-83e507167daf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 6 0)
