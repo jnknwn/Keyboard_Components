@@ -22,8 +22,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 0 0 0)
+		(property "Footprint" "Keyboard_Components:OLED_i2c_Header_with_Jumpers"
+			(at 0 -7.112 0)
 			(effects
 				(font
 					(size 1.27 1.27)
