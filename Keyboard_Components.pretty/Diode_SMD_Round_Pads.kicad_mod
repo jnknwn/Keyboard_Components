@@ -323,7 +323,7 @@
 		(remove_unused_layers no)
 		(uuid "ca2e089e-52cb-4112-8cb7-adcef6c26284")
 	)
-	(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+	(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.step"
 		(offset
 			(xyz 0 0 0)
 		)

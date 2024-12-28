@@ -412,7 +412,7 @@
 		(roundrect_rratio 0.25)
 		(uuid "b6028556-56b0-4ead-8308-07e7f24aaa3b")
 	)
-	(model "${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-28_W7.62mm.wrl"
+	(model "${KICAD8_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-28_W7.62mm.step"
 		(offset
 			(xyz -3.81 16.51 -0.35)
 		)

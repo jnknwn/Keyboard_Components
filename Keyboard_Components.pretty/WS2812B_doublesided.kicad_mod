@@ -266,7 +266,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "223b1bf5-aeb0-4409-ae26-7a05947090b1")
 	)
-	(model "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.wrl"
+	(model "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.step"
 		(offset
 			(xyz 0 0 0)
 		)
