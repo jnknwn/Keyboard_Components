@@ -1,0 +1,207 @@
+(footprint "Diode"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -1.7 0)
+		(layer "F.SilkS")
+		(uuid "ffed2abe-19c1-484a-85f6-c11ad414bcd4")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Diode"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "c50e5885-8a58-4ee4-a5e7-bcd8f4b418f2")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8dd72611-5dc2-4a60-989c-5c118198fdc1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f9730ad1-f08c-43b4-bbbb-2a340b9c25a2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d49e906a-0aea-44c5-87e9-bcbfaaacf1d3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -2.6 0)
+		(end -1.8 0)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e17afcb0-49dd-4f12-a913-1d8e2e4c5b94")
+	)
+	(fp_line
+		(start -1.7 0.3)
+		(end -1.7 -0.3)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "39b77ad4-840a-4880-8672-f09699d06495")
+	)
+	(fp_line
+		(start -1 -1)
+		(end 1 -1)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ccf65e24-b980-469f-8862-e397985c8f5a")
+	)
+	(fp_line
+		(start -0.8 -1)
+		(end -0.8 1)
+		(stroke
+			(width 0.3)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "d35cff66-a30d-4c53-940d-42921eb0cfb3")
+	)
+	(fp_line
+		(start 1 1)
+		(end -1 1)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "61c5e7b9-ec75-459b-8f55-aa6dcdc47663")
+	)
+	(fp_line
+		(start 1.7 -0.3)
+		(end 1.7 0.3)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fd0c6a70-4754-40da-b8db-cbc81b3ceeb4")
+	)
+	(fp_line
+		(start 2.6 0)
+		(end 1.8 0)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "045e2b02-bbb9-4128-b50f-816a961b17ef")
+	)
+	(fp_arc
+		(start -1.7 -0.3)
+		(mid -1.494975 -0.794975)
+		(end -1 -1)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "91125ed1-04ac-414b-89bd-9ef46367e239")
+	)
+	(fp_arc
+		(start -1 1)
+		(mid -1.494975 0.794975)
+		(end -1.7 0.3)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d86ee7d3-b7d0-400c-a7d2-6d9a947e3d7b")
+	)
+	(fp_arc
+		(start 1 -1)
+		(mid 1.494975 -0.794975)
+		(end 1.7 -0.3)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d577f635-837f-4cd5-b539-f043f68e5a8d")
+	)
+	(fp_arc
+		(start 1.7 0.3)
+		(mid 1.494975 0.794975)
+		(end 1 1)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "694a41fe-e775-441c-bcd9-127b58faffa2")
+	)
+	(pad "1" thru_hole circle
+		(at -3.81 0)
+		(size 1.65 1.65)
+		(drill 0.9906)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1108f7d7-1300-4e64-9d0c-b460edb02c0e")
+	)
+	(pad "2" thru_hole circle
+		(at 3.81 0)
+		(size 1.65 1.65)
+		(drill 0.9906)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "b80aa845-c1c7-4a36-86eb-13202c5b8807")
+	)
+	(model "${KICAD6_3DMODEL_DIR}/Keyboard_Parts_3D_files/R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal.step"
+		(offset
+			(xyz -3.8 0 0.2)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
