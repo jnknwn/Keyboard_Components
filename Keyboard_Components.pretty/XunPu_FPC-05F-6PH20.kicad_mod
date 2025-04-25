@@ -215,4 +215,15 @@
 		(thermal_bridge_angle 45)
 		(uuid "1e8c6127-776c-4614-a858-d498154a6268")
 	)
+	(model "${KICAD8_3DMODEL_DIR}/Connector_FFC-FPC.3dshapes/Hirose_FH12-6S-0.5SH_1x06-1MP_P0.50mm_Horizontal.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )
